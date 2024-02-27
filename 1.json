@@ -1,0 +1,37 @@
+{
+  "description": "Base Mainnet Mint Test",
+  "image": "ipfs://QmUKP2gCZLU9hZUVG4e1jeS8nfBRHyS2yxQKzxeGHhCSfj/32083e53130027cc65853f09ed718a1dde5429f7.png",
+  "name": "Based Test #11",
+  "dna": "32083e53130027cc65853f09ed718a1dde5429f7",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background_z10",
+      "value": "Purplblue"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Dev"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "9"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Awkward"
+    },
+    {
+      "trait_type": "Outfiits",
+      "value": "Shirt_black"
+    },
+    {
+      "trait_type": "Skins",
+      "value": "Dark_brown"
+    }
+  ]
+}
